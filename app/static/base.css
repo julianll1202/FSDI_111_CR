@@ -1,0 +1,22 @@
+h1{
+    color: #0D6EFD;
+    text-align: center;
+    font-weight: bold;
+}
+
+.form-container{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 10px;
+}
+.form-container div{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+table tr a{
+    align-items: center;
+}
